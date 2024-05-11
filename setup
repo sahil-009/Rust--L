@@ -1,0 +1,36 @@
+node js use cores s it is called single threaded
+from 8 cores it use 1 thread
+node js use IPC (Interprocess communication) a bit slower than threaded langs.
+
+
+
+
+go/java/rust works on threads
+ 
+ 
+ rust have different memory safety than c and js
+ rust used n
+ backend apps
+ create Cli
+ create browsers(use din mozilla for faster)
+ creating code editor like zed
+ 
+ 
+ 
+  cargo.toml is as package.json
+ main.rs == index.js
+ 
+ 
+ installation
+ linux:
+ 	sudo snap install rustup
+ 	sudo apt install cargo
+ 	
+ cd [folder-name]
+ cargo init
+ cargo run 	to run code
+ 
+ 
+ 
+
+ 
